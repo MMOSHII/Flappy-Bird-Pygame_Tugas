@@ -2,7 +2,7 @@
 
 Selamat datang di permainan Flappy Bird sederhana yang dibuat dengan Python dan Pygame! Permainan ini adalah replika sederhana dari permainan klasik Flappy Bird, di mana Anda mengendalikan burung yang harus melewati pipa dengan menghindarinya. Tantang diri Anda untuk mencetak skor tertinggi!
 
-![Gameplay](./asset/screenshot.png)
+![Gameplay](./flowchart/Level%20Function%20Flowchart.png)
 
 ## Cara Bermain
 - Tekan tombol "SPACE" untuk membuat burung melompat.
